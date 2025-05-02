@@ -12,7 +12,7 @@
 This project provides a **38-pin, 0.35mm pitch FPC extender** board to help reposition the controller board of an AMOLED screen away from the display.  
 It is especially useful when the display-controller stack is too thick and causes fitting issues inside enclosures (like in handheld consoles).
 
-In the **FrogBall Color**, it allows redistributing thickness away from the center, preventing the screen from being pushed outward.
+In the **Frog Boy Color**, it allows redistributing thickness away from the center, preventing the screen from being pushed outward.
 
 ---
 
@@ -51,7 +51,7 @@ Host PCB ── AMOLED Controller ── FPC ── [📐 FBC Extender] ── F
 
 ## 📸 Gallery
 
-*Coming soon – photos of the extender in a FrogBall Color shell*
+*Coming soon – photos of the extender in a Frog Boy Color Color shell*
 
 ---
 
